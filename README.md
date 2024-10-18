@@ -62,6 +62,28 @@ This table we creat pivotchart. This sales vs states we choose bar chart that in
 
 ![Screenshot 2024-10-19 040910](https://github.com/user-attachments/assets/a8c6dbb7-b6fa-43eb-a90a-5d571d4b1ec6)
 
+### Orders vs Gender:
+                        we are creating pivot table in vrinda store data .This excel data we go to insart then we selected pivot table and click next. This data we are starting data visualiztion. Then we put age group and gender. The values are show into table from.
+
+![Screenshot 2024-10-19 041730](https://github.com/user-attachments/assets/8fa461a6-0e83-4258-8cc8-9f79d0895d6e)
+
+This table we creat pivotchart.This age group vs gender we choose bar chart that indicate which percentage gender group buying my product.
+
+![Screenshot 2024-10-19 041740](https://github.com/user-attachments/assets/5ce1cbbb-b353-4dee-aba5-0f7dbf0dbf12)
+
+### Orders Channels:
+                        we are creating pivot table in vrinda store data .This excel data we go to insart then we selected pivot table and click next. This data we are starting data visualiztion. Then we put delivery channels and order id.The values are show into table from.
+
+![Screenshot 2024-10-19 041806](https://github.com/user-attachments/assets/7c9711f6-1c47-4ce0-8c31-b5d6d7e8ed59)
+
+This table we creat pivotchart.This delivery channels and order id we choose pie chart that indicate what percentage of product delivery into online app.
+
+![Screenshot 2024-10-19 041815](https://github.com/user-attachments/assets/8a95046d-979e-4a8a-b8d1-92591d13158a)
+
+
+
+
+
 
 
 
