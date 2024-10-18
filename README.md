@@ -28,6 +28,7 @@
                 18. Ship state
                 19. Ship county
                 20. B2B
+## Data Understanding:
 ### Oder Vs Sales:
                   Firstly we are creating pivot table in vrinda store data .This excel data we go to insart then we selected pivot table and click next. This data we are starting data visualiztion (Row , Column , values).Then we put the month, sum of amount, count of oder ID. The values are show into table from.
 ![Screenshot 2024-10-19 031930](https://github.com/user-attachments/assets/59faee93-871d-4ffc-8985-2a34fb2867e4)
@@ -80,10 +81,13 @@ This table we creat pivotchart.This delivery channels and order id we choose pie
 
 ![Screenshot 2024-10-19 041815](https://github.com/user-attachments/assets/8a95046d-979e-4a8a-b8d1-92591d13158a)
 
+## Dashboard Creating:
+                        This data visualization we are making dashboard to visualise sales in month , channel, category. This data set we are looking into sales, profit percentage, top product, top buying gender and age group. My product sales in order channel this is mainly focusing into profit margin in my store.
 
+![Screenshot 2024-10-19 043648](https://github.com/user-attachments/assets/c4319a6e-66fb-4315-9f07-a22e649a980d)
 
-
-
+## Apporach:
+                        For analytics projects, that is most power full into growth of product. That product are much much helpful into this dashboard. 
 
 
 
