@@ -60,7 +60,8 @@ This table we creat pivotchart. This delivery status vs order id we choose pie c
 
 This table we creat pivotchart. This sales vs states we choose bar chart that indicate what amount of product sales into this states.
 
-![Screenshot 2024-10-19 040224](https://github.com/user-attachments/assets/9df4a255-f18b-47a9-84dc-b0b79021187c)
+![Screenshot 2024-10-19 040910](https://github.com/user-attachments/assets/a8c6dbb7-b6fa-43eb-a90a-5d571d4b1ec6)
+
 
 
 
